@@ -18,7 +18,7 @@ public class ListaCursos {
 		}
 		//Comentario
 		
-		System.out.println("HOla mundo");
+		System.out.println("HOla Personas");
 		System.out.println("T quiero");
 	}
 
